@@ -3,12 +3,12 @@ entries:
   vm-template:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-12-03T21:31:32.821081533Z"
+    created: "2024-12-03T21:40:53.374779414Z"
     description: A Helm chart for VM deployment on multiple cloud providers
-    digest: c7bd8abd52cd33b51ce2d637d92e5229ebfb3466b266f8163279e6fc1c29de44
+    digest: 07d6b20bb95f9bc93242145956d0f533705edbcc6f3e1162537547b583654626
     name: vm-template
     type: application
     urls:
     - https://vicentinileonardo.github.io/helm-charts/charts/vm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2024-12-03T21:31:32.820671764Z"
+generated: "2024-12-03T21:40:53.374379261Z"
