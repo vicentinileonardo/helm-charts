@@ -3,6 +3,16 @@ entries:
   mlflow-cratedb:
   - apiVersion: v2
     appVersion: 2.14.0
+    created: "2025-01-28T17:27:49.498924273Z"
+    description: A Helm chart for MLflow-CrateDB adapter
+    digest: 97745d247d0d3cfee0d51a33eb9c29e97a84f99898906dae45ca4eb0ec65f009
+    name: mlflow-cratedb
+    type: application
+    urls:
+    - https://vicentinileonardo.github.io/helm-charts/charts/mlflow-cratedb-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 2.14.0
     created: "2025-01-27T17:55:03.807839825Z"
     description: A Helm chart for MLflow-CrateDB adapter
     digest: b46d54f93c4be45aced52498557d9df3d9cff773209391b58f041980cd4df6fb
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://vicentinileonardo.github.io/helm-charts/charts/vm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-27T17:55:03.807384923Z"
+generated: "2025-01-28T17:27:49.498485646Z"
