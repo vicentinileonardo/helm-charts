@@ -24,6 +24,16 @@ entries:
   opa:
   - apiVersion: v2
     appVersion: 0.70.0
+    created: "2025-01-29T23:09:45.557367497Z"
+    description: A Helm chart for Open Policy Agent
+    digest: 5aa7a5253553f92cac3ef32f9023e65e5befa48b870cbee5d1dd309c2ec34fd2
+    name: opa
+    type: application
+    urls:
+    - https://vicentinileonardo.github.io/helm-charts/charts/opa-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 0.70.0
     created: "2025-01-29T17:04:10.379500316Z"
     description: A Helm chart for Open Policy Agent
     digest: 3473e6016fc288a4a2b18db88cb9ae7a2cb4d51fc290e03eab474fa8aac18764
@@ -73,4 +83,4 @@ entries:
     urls:
     - https://vicentinileonardo.github.io/helm-charts/charts/vm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-01-29T17:04:10.378576007Z"
+generated: "2025-01-29T23:09:45.556625633Z"
