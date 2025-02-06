@@ -3,6 +3,16 @@ entries:
   greenops-scheduler:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2025-02-06T18:37:05.729974612Z"
+    description: A Helm chart for GreenOps Scheduler
+    digest: c581c3df1d57c4eed7e90161ee112d2aaf5d695feb3c1abcf3d2d2c0802b5187
+    name: greenops-scheduler
+    type: application
+    urls:
+    - https://vicentinileonardo.github.io/helm-charts/charts/greenops-scheduler-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2025-02-06T17:32:33.623754272Z"
     description: A Helm chart for GreenOps Scheduler
     digest: 0139d2553b103165d51fd904f8a37873e6ff5d3690ee10ddde92392c267fd3eb
@@ -164,4 +174,4 @@ entries:
     urls:
     - https://vicentinileonardo.github.io/helm-charts/charts/vm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-02-06T17:32:33.622746173Z"
+generated: "2025-02-06T18:37:05.728807923Z"
