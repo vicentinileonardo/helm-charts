@@ -3,9 +3,9 @@ entries:
   azuredevops-composition-example:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-07-12T23:48:50.17565231Z"
+    created: "2025-07-13T14:08:19.753110456Z"
     description: A Helm chart for showcasing Krateo Composition with Azure DevOps
-    digest: f1e4a5f17a35efe6b44c5629abd4954ff176b9e8f14f533d62f5bf748b994f08
+    digest: 13df8d626709be88f5a90b6dfed1d86a79a8e07cae41ec6b7f7d1ca5ef7d6ffd
     name: azuredevops-composition-example
     type: application
     urls:
@@ -185,4 +185,4 @@ entries:
     urls:
     - https://vicentinileonardo.github.io/helm-charts/charts/vm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-07-12T23:48:50.17408494Z"
+generated: "2025-07-13T14:08:19.75265078Z"
