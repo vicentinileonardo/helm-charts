@@ -14,9 +14,9 @@ entries:
   azuredevops-starter:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2025-07-14T20:53:33.706220753Z"
+    created: "2025-07-14T21:21:36.441226767Z"
     description: A Helm chart for showcasing Krateo Composition with Azure DevOps
-    digest: d575a5789e60b16b04e14feb2816ffe00675127b26f7236b04a6c7a08c10c9da
+    digest: c06cecb7a0306af0cbbc5b2f805f54c7f218aef231bb49da8218d80b18d2226d
     name: azuredevops-starter
     type: application
     urls:
@@ -196,4 +196,4 @@ entries:
     urls:
     - https://vicentinileonardo.github.io/helm-charts/charts/vm-template-1.0.0.tgz
     version: 1.0.0
-generated: "2025-07-14T20:53:33.705694542Z"
+generated: "2025-07-14T21:21:36.439600589Z"
